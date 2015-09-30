@@ -1,0 +1,3 @@
+THE SOUND OF CERNER
+Takes each character from "Cerner" and multiplies it by 2^5,
+then plays the sound in Hertz for each character
